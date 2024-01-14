@@ -1,3 +1,26 @@
 body {
+  background-color: lightblue;
+  
+}
+
+.wrapper {
+  
   background-color: black;
+  width: 240px;
+  height: 360px;
+
+
+}
+
+.symbol {
+  background-color: orange;
+  color: white;
+  
+
+}
+
+.button {
+  background-color: lightgray;
+
+  padding: 1px 5px
 }
