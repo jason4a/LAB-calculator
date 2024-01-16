@@ -72,3 +72,32 @@ body {
   cursor: pointer;
  
 }
+
+.button:hover {
+  color: #ebebeb;
+}
+
+.button:active {
+  color: #bbbcbe;
+}
+
+ 
+
+.operator {
+  
+  text-align: center;
+  background-color: #df974c;
+  color: white;
+  font-size: 50px;
+  padding: 1px 5px;
+  
+}
+
+.calculator-buttons > .operator:hover; {
+  color: #dfb07e;
+
+}
+
+.operator:active; {
+  color: #dd8d37;
+}
